@@ -24,4 +24,4 @@ Diseño: Figma.
 Programación:
 TypeScript.
 Plataforma: 
-GitHub (Repositorio por equipo).
+GitHub (Repositorio por equipo)
